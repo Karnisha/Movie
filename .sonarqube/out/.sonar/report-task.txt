@@ -1,0 +1,6 @@
+projectKey=MovieManagementSystem
+serverUrl=http://localhost:9000
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9000/dashboard?id=MovieManagementSystem
+ceTaskId=AY0vhchA3Yc_9ReD5Aab
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY0vhchA3Yc_9ReD5Aab

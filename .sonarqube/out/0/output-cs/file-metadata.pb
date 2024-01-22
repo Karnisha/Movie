@@ -1,0 +1,12 @@
+I
+@D:\MoviesManagementSyatem\Movies\Controllers\MoviesController.csutf-8A
+8D:\MoviesManagementSyatem\Movies\Data\MoviesDbContext.csutf-8=
+4D:\MoviesManagementSyatem\Movies\Data\MoviesModel.csutf-8L
+CD:\MoviesManagementSyatem\Movies\Migrations\20231226044114_check.csutf-8W
+LD:\MoviesManagementSyatem\Movies\Migrations\20231226044114_check.Designer.csutf-8V
+KD:\MoviesManagementSyatem\Movies\Migrations\MoviesDbContextModelSnapshot.csutf-84
++D:\MoviesManagementSyatem\Movies\Program.csutf-8U
+JD:\MoviesManagementSyatem\Movies\obj\Debug\net7.0\Movies.GlobalUsings.g.csutf-8k
+`D:\MoviesManagementSyatem\Movies\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8S
+HD:\MoviesManagementSyatem\Movies\obj\Debug\net7.0\Movies.AssemblyInfo.csutf-8f
+[D:\MoviesManagementSyatem\Movies\obj\Debug\net7.0\Movies.MvcApplicationPartsAssemblyInfo.csutf-8

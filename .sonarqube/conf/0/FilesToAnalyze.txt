@@ -1,0 +1,14 @@
+﻿D:\MoviesManagementSyatem\Movies\Controllers\MoviesController.cs
+D:\MoviesManagementSyatem\Movies\Data\MoviesDbContext.cs
+D:\MoviesManagementSyatem\Movies\Data\MoviesModel.cs
+D:\MoviesManagementSyatem\Movies\Migrations\20231226044114_check.cs
+D:\MoviesManagementSyatem\Movies\Migrations\20231226044114_check.Designer.cs
+D:\MoviesManagementSyatem\Movies\Migrations\MoviesDbContextModelSnapshot.cs
+D:\MoviesManagementSyatem\Movies\Program.cs
+D:\MoviesManagementSyatem\Movies\obj\Debug\net7.0\Movies.GlobalUsings.g.cs
+D:\MoviesManagementSyatem\Movies\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+D:\MoviesManagementSyatem\Movies\obj\Debug\net7.0\Movies.AssemblyInfo.cs
+D:\MoviesManagementSyatem\Movies\obj\Debug\net7.0\Movies.MvcApplicationPartsAssemblyInfo.cs
+D:\MoviesManagementSyatem\Movies\appsettings.Development.json
+D:\MoviesManagementSyatem\Movies\appsettings.json
+D:\MoviesManagementSyatem\Movies\Properties\launchSettings.json
