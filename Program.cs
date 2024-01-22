@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Hosting;
-//using Movies.Data;
+using Movies.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
